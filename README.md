@@ -23,7 +23,7 @@ Data was cleaned and transformed with the Power Query Editor in Power BI and by 
 
 ## Data Visualisation
 
-The first Dashboard is a practise Dashboard created by following the Youtube Instructor. Whereas the seconnd Dashboard is a newly created Dashboard.
+The first Dashboard is a practise Dashboard created by following the Youtube Instructor. Whereas the second Dashboard is a newly created Dashboard.
 
 ![Dashboard (practise)](https://github.com/VizCreation/Supermarket-Sales-Dashboard/assets/157504708/0b9c1bee-4101-4dc6-9b97-21fa5b56f582)
 
