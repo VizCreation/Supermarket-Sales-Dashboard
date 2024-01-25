@@ -10,19 +10,16 @@ This is a self-initiated project that showcases a Supermarket Sales and Profit D
 6. What is the Ranking of Products based on Sales
 7. What is the most popular Product Category?
 
-
 ## Data Sourcing
 The data set is retrieved from Youtube with the Channel called 'Lean Excel Solutions'. This channel aims to share knowledge that will help individuals improve their productivity & skills when using office application.
 Youtube link: https://www.youtube.com/watch?v=CGgXHsD19Ek
 Data Link: https://leanexcelsolutions.com/sales-dashboard-in-excel-power-bi/
-
 
 ## Data Transformation/Cleaning
 Data was cleaned and transformed with the Power Query Editor in Power BI and by creating new measures using DAX and the 'Quick Measure' function. Some of the applied steps include:
 * Merging the Main Data set with the Product Details table by linking the "Product ID"
 * Creating new measures that calculates YoY% profit and YTD profit
 * Creating new columns that calculates the "Total Selling Value" and "Total Buying Value"
-
 
 ## Data Visualisation
 
@@ -32,7 +29,6 @@ The first Dashboard is a practise Dashboard created by following the Youtube Ins
 
 
 ![Main Dashboard](https://github.com/VizCreation/Supermarket-Sales-Dashboard/assets/157504708/7a744104-939f-45ae-987b-e59be3dfd21e)
-
 
 
 ## Findings/Conclusion
