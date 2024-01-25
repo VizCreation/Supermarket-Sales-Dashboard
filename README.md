@@ -21,10 +21,10 @@ Data was cleaned and transformed with the Power Query Editor in Power BI and by 
 * Creating new columns that calculates the "Total Selling Value" and "Total Buying Value"
 
 ## Data Visualisation
-![Dashboard (practise)]<https://github.com/VizCreation/Supermarket-Sales-Dashboard/assets/157504708/0b9c1bee-4101-4dc6-9b97-21fa5b56f582>
+![Dashboard (practise)](https://github.com/VizCreation/Supermarket-Sales-Dashboard/assets/157504708/0b9c1bee-4101-4dc6-9b97-21fa5b56f582)
 
 
-![Main Dashboard]<https://github.com/VizCreation/Supermarket-Sales-Dashboard/assets/157504708/7a744104-939f-45ae-987b-e59be3dfd21e>
+![Main Dashboard](https://github.com/VizCreation/Supermarket-Sales-Dashboard/assets/157504708/7a744104-939f-45ae-987b-e59be3dfd21e)
 
 
 
