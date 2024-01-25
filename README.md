@@ -15,7 +15,6 @@ The data set is retrieved from Youtube with the Channel called 'Lean Excel Solut
 Youtube link: https://www.youtube.com/watch?v=CGgXHsD19Ek
 Data Link: https://leanexcelsolutions.com/sales-dashboard-in-excel-power-bi/
 
-
 ## Data Transformation/Cleaning
 Data was cleaned and transformed with the Power Query Editor in Power BI and by creating new measures using DAX and the 'Quick Measure' function. Some of the applied steps include:
 * Merging the Main Data set with the Product Details table by linking the "Product ID"
@@ -23,6 +22,9 @@ Data was cleaned and transformed with the Power Query Editor in Power BI and by 
 * Creating new columns that calculates the "Total Selling Value" and "Total Buying Value"
 
 ## Data Visualisation
+
+The first Dashboard is a practise Dashboard created by following the Youtube Instructor. Whereas the seconnd Dashboard is a newly created Dashboard.
+
 ![Dashboard (practise)](https://github.com/VizCreation/Supermarket-Sales-Dashboard/assets/157504708/0b9c1bee-4101-4dc6-9b97-21fa5b56f582)
 
 
